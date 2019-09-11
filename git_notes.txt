@@ -1,0 +1,14 @@
+Quick notes on git usage:
+
+All directories within the git directory are shared by us.
+- You change a file, everyone's will change.
+- You delete a file, you delete it for everyone.
+
+Get the repository updates with 'git pull' - Do this frequently to avoid working with old files.
+
+Change files for your update with 'git add/remove <file>'
+Pass a message with details of your update with 'git commit' (Opens a temporary file)
+Also possible: 'git commit -m <message>' (In cmd line)
+Push updates with 'git push'
+
+If you get a Merge Error, someone else also updated that file. Fight this out over w'app or something.
