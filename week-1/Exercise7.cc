@@ -36,7 +36,7 @@ int main()
     obj.bit_st.zero = 0;
     obj.bit_st.three = 3;
 
-    cout << hex << obj.variable << '\n';   // through union display bit_st as size_t 						   // variable in hexadecimal values
+    cout << hex << obj.variable << '\n';   // through union display bit_st as size_t variable in hexadecimal values
 }
     
 
