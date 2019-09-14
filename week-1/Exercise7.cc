@@ -38,5 +38,9 @@ int main()
 
     cout << hex << obj.variable << '\n';   // through union display bit_st as size_t variable in hexadecimal values
 }
+
+/*
+The output from this program is 'c0ffeecafe'
+*/
     
 
