@@ -1,3 +1,6 @@
+// Exercise 8
+// Learn how to edit bits within an existing variable using bitwise operations.
+
 #include <iostream>
 #include <string>
 
