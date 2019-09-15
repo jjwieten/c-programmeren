@@ -1,3 +1,6 @@
+// Exercise 7
+// Learn how to use union, struct and bit-fields through bitwise operations.
+
 #include <iostream>
 using namespace std;
 
